@@ -1,0 +1,101 @@
+Removed Member From Class: ClassName=MCU Member=C4
+Removed Member From Class: ClassName=MCU Member=C11
+Removed Member From Class: ClassName=Power Member=R3
+Removed Member From Class: ClassName=MCU Member=R10
+Removed Member From Class: ClassName=MCU Member=R11
+Added Component: Designator=*1(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*2(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*3(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*4(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*5(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*6(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*7(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*8(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*9(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*10(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*11(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(Test Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=I*(POWER)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC11_1 Pin=*1-1
+Added Pin To Net: NetName=+3.3 Pin=*2-1
+Added Pin To Net: NetName=V_FB2 Pin=*3-1
+Added Pin To Net: NetName=V_FB3 Pin=*4-1
+Added Pin To Net: NetName=+1.8 Pin=*5-1
+Added Pin To Net: NetName=VGL_LCD Pin=*6-1
+Added Pin To Net: NetName=REF_LCD Pin=*7-1
+Added Pin To Net: NetName=AVDD_LCD Pin=*8-1
+Added Pin To Net: NetName=+VL Pin=*9-1
+Added Pin To Net: NetName=VGH_LCD Pin=*10-1
+Added Pin To Net: NetName=GND Pin=*11-1
+Added Pin To Net: NetName=+3.3 Pin=*-1
+Added Pin To Net: NetName=+5 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=+12 Pin=I*-1
+Added Pin To Net: NetName=GND Pin=I*-2
+Change Net Name : Old Net Name=NetC11_1 New Net Name=Net*1_1
+Added Pin To Net: NetName=SWCLK Pin=*-3
+Added Pin To Net: NetName=SWCLK Pin=U1-109
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=*-4
+Added Pin To Net: NetName=SWDIO Pin=U1-105
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=Power Member=Component *1 TP FB1
+Added Member To Class: ClassName=Power Member=Component *2 TP +3.3
+Added Member To Class: ClassName=Power Member=Component *3 TP FB2
+Added Member To Class: ClassName=Power Member=Component *4 TP FB3
+Added Member To Class: ClassName=Power Member=Component *5 TP +1.8
+Added Member To Class: ClassName=Power Member=Component *6 TP -7.0
+Added Member To Class: ClassName=Power Member=Component *7 TP REF_LCD
+Added Member To Class: ClassName=Power Member=Component *8 TP +10.0
+Added Member To Class: ClassName=Power Member=Component *9 TP +9.28
+Added Member To Class: ClassName=Power Member=Component *10 TP +16.0
+Added Member To Class: ClassName=Power Member=Component *11 TP GND
+Added Member To Class: ClassName=MCU Member=Component * SWD
+Added Member To Class: ClassName=Power Member=Component * TP +5.0
+Added Member To Class: ClassName=MCU Member=Component C1 4.3pf
+Added Member To Class: ClassName=MCU Member=Component C2 4.3pf
+Added Member To Class: ClassName=Power Member=Component C5 22uf
+Added Member To Class: ClassName=Power Member=Component C6 22uf
+Added Member To Class: ClassName=Power Member=Component C7 10uf
+Added Member To Class: ClassName=Power Member=Component C8 10uf
+Added Member To Class: ClassName=Power Member=Component C10 22uf
+Added Member To Class: ClassName=Power Member=Component C15 22uf
+Added Member To Class: ClassName=Power Member=Component C17 1uf
+Added Member To Class: ClassName=Power Member=Component C24 22pf
+Added Member To Class: ClassName=Power Member=Component C25 1uf
+Added Member To Class: ClassName=Power Member=Component C26 100uf 16V
+Added Member To Class: ClassName=Power Member=Component C34 10nf
+Added Member To Class: ClassName=Power Member=Component I* POWER
+Added Member To Class: ClassName=MCU Member=Component R2 0
+Added Member To Class: ClassName=MCU Member=Component R4 10k
+Added Member To Class: ClassName=MCU Member=Component R5 10k
+Added Member To Class: ClassName=Power Member=Component R7 10k
+Added Member To Class: ClassName=Power Member=Component R8 10k
+Added Member To Class: ClassName=Power Member=Component R9 430k
+Added Member To Class: ClassName=Power Member=Component R13 51k
+Added Member To Class: ClassName=Power Member=Component R15 0k
+Added Member To Class: ClassName=Power Member=Component R16 33.2k
+Added Member To Class: ClassName=Power Member=Component R17 10k
+Added Member To Class: ClassName=Power Member=Component R20 750k
+Added Member To Class: ClassName=Power Member=Component R22 470k
+Added Member To Class: ClassName=Power Member=Component R23 33k
+Added Member To Class: ClassName=Power Member=Component R24 620k
+Added Member To Class: ClassName=Power Member=Component R26 100k
+Added Member To Class: ClassName=Power Member=Component R27 430k
+Added Member To Class: ClassName=Power Member=Component R29 0k
+Added Member To Class: ClassName=Power Member=Component R37 3.9k

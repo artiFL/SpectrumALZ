@@ -1,0 +1,373 @@
+Removed Pin From Net: NetName=LCD_DE Pin=U1-64
+Change Component Designator: OldDesignator=C1 NewDesignator=C4
+Change Component Designator: OldDesignator=C2 NewDesignator=C5
+Change Component Designator: OldDesignator=C3 NewDesignator=C6
+Change Component Designator: OldDesignator=C4 NewDesignator=C7
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=C6 NewDesignator=C9
+Change Component Designator: OldDesignator=C7 NewDesignator=C10
+Change Component Designator: OldDesignator=C8 NewDesignator=C11
+Change Component Designator: OldDesignator=C9 NewDesignator=C12
+Change Component Designator: OldDesignator=C10 NewDesignator=C13
+Change Component Designator: OldDesignator=C11 NewDesignator=C14
+Change Component Designator: OldDesignator=C12 NewDesignator=C15
+Change Component Designator: OldDesignator=C13 NewDesignator=C16
+Change Component Designator: OldDesignator=C14 NewDesignator=C17
+Change Component Designator: OldDesignator=C15 NewDesignator=C18
+Change Component Designator: OldDesignator=C16 NewDesignator=C19
+Change Component Designator: OldDesignator=C17 NewDesignator=C20
+Change Component Designator: OldDesignator=C18 NewDesignator=C21
+Change Component Designator: OldDesignator=C19 NewDesignator=C22
+Change Component Designator: OldDesignator=C20 NewDesignator=C23
+Change Component Designator: OldDesignator=C21 NewDesignator=C24
+Change Component Designator: OldDesignator=C22 NewDesignator=C25
+Change Component Designator: OldDesignator=C23 NewDesignator=C26
+Change Component Designator: OldDesignator=C24 NewDesignator=C27
+Change Component Designator: OldDesignator=C25 NewDesignator=C28
+Change Component Designator: OldDesignator=C26 NewDesignator=C29
+Change Component Designator: OldDesignator=C27 NewDesignator=C30
+Change Component Designator: OldDesignator=C28 NewDesignator=C31
+Change Component Designator: OldDesignator=C29 NewDesignator=C32
+Change Component Designator: OldDesignator=C30 NewDesignator=C33
+Change Component Designator: OldDesignator=C31 NewDesignator=C34
+Change Component Designator: OldDesignator=C32 NewDesignator=C35
+Change Component Designator: OldDesignator=C33 NewDesignator=C36
+Change Component Designator: OldDesignator=C34 NewDesignator=C37
+Change Component Designator: OldDesignator=C35 NewDesignator=C38
+Change Component Designator: OldDesignator=C36 NewDesignator=C39
+Change Component Designator: OldDesignator=C37 NewDesignator=C40
+Change Component Designator: OldDesignator=C38 NewDesignator=C3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=R4 NewDesignator=R7
+Change Component Designator: OldDesignator=R5 NewDesignator=R8
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Change Component Designator: OldDesignator=R8 NewDesignator=R11
+Change Component Designator: OldDesignator=R9 NewDesignator=R12
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R13 NewDesignator=R16
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Component Designator: OldDesignator=R16 NewDesignator=R19
+Change Component Designator: OldDesignator=R17 NewDesignator=R20
+Change Component Designator: OldDesignator=R18 NewDesignator=R21
+Change Component Designator: OldDesignator=R19 NewDesignator=R22
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R25
+Change Component Designator: OldDesignator=R23 NewDesignator=R26
+Change Component Designator: OldDesignator=R24 NewDesignator=R27
+Change Component Designator: OldDesignator=R25 NewDesignator=R28
+Change Component Designator: OldDesignator=R26 NewDesignator=R29
+Change Component Designator: OldDesignator=R27 NewDesignator=R30
+Change Component Designator: OldDesignator=R28 NewDesignator=R31
+Change Component Designator: OldDesignator=R29 NewDesignator=R32
+Change Component Designator: OldDesignator=R30 NewDesignator=R33
+Change Component Designator: OldDesignator=R31 NewDesignator=R34
+Change Component Designator: OldDesignator=R32 NewDesignator=R35
+Change Component Designator: OldDesignator=R33 NewDesignator=R36
+Change Component Designator: OldDesignator=R34 NewDesignator=R37
+Change Component Designator: OldDesignator=R35 NewDesignator=R38
+Change Component Designator: OldDesignator=R36 NewDesignator=R5
+Change Component Designator: OldDesignator=R37 NewDesignator=R3
+Added Component: Designator=C1(CAPC2013X70X45NL10T25)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2013X70X45NL10T25)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAPC2013X70X45NL10T25)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAPC2013X70X45NL10T25)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C43(CAPC2013X70X45NL10T25)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2013X60X35ML10T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 5, 10/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.024inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=U7(MICT-TG-54_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Address Bus Width"; Value = "15bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "16bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.micron.com/~/media/documents/products/data-sheet/dram/256mb_sdr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. W, 05/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "22.22x10.16x1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "22.22mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.micron.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+70degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Random Access Time"; Value = "6ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "256MB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "0degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Word"; Value = "16bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Words"; Value = "16M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organisation"; Value = "16Mx16bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "54-Pin Thin Small Outline Package, Body 10.2 x 22.3 mm, Pitch 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TG-54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "TSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "https://www.micron.com/~/media/documents/products/data-sheet/dram/256mb_sdr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev.W, 05/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "10.16mm"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(FOX-FOXSLF-2_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case\Package"; Value = "TO-251-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.foxonline.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.foxonline.com/pdfs/hc49slf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Mar-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "350 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "2.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 11.35 x 4.65 mm, Pitch 4.88 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "FOXSLF-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "115 mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Rise Time"; Value = "90 ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.3 mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=+3.3 Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=+3.3 Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=+3.3 Pin=C43-2
+Added Pin To Net: NetName=+3.3 Pin=R2-2
+Added Pin To Net: NetName=+3.3 Pin=U7-1
+Added Pin To Net: NetName=+3.3 Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=+3.3 Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U7-12
+Added Pin To Net: NetName=+3.3 Pin=U7-14
+Added Pin To Net: NetName=+3.3 Pin=U7-27
+Added Pin To Net: NetName=GND Pin=U7-28
+Added Pin To Net: NetName=GND Pin=U7-41
+Added Pin To Net: NetName=+3.3 Pin=U7-43
+Added Pin To Net: NetName=GND Pin=U7-46
+Added Pin To Net: NetName=+3.3 Pin=U7-49
+Added Pin To Net: NetName=GND Pin=U7-52
+Added Pin To Net: NetName=GND Pin=U7-54
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC22_1
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR27_1
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR30_1
+Change Net Name : Old Net Name=NetR28_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR33_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR34_1
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR36_1
+Change Net Name : Old Net Name=NetR34_1 New Net Name=NetR37_1
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR3_1
+Added Pin To Net: NetName=FMC_A0 Pin=U1-10
+Added Pin To Net: NetName=FMC_A0 Pin=U7-23
+Added Net: Name=FMC_A0
+Added Pin To Net: NetName=FMC_A1 Pin=U1-11
+Added Pin To Net: NetName=FMC_A1 Pin=U7-24
+Added Net: Name=FMC_A1
+Added Pin To Net: NetName=FMC_A2 Pin=U1-12
+Added Pin To Net: NetName=FMC_A2 Pin=U7-25
+Added Net: Name=FMC_A2
+Added Pin To Net: NetName=FMC_A3 Pin=U1-13
+Added Pin To Net: NetName=FMC_A3 Pin=U7-26
+Added Net: Name=FMC_A3
+Added Pin To Net: NetName=FMC_A4 Pin=U1-14
+Added Pin To Net: NetName=FMC_A4 Pin=U7-29
+Added Net: Name=FMC_A4
+Added Pin To Net: NetName=FMC_A5 Pin=U1-15
+Added Pin To Net: NetName=FMC_A5 Pin=U7-30
+Added Net: Name=FMC_A5
+Added Pin To Net: NetName=FMC_A6 Pin=U1-50
+Added Pin To Net: NetName=FMC_A6 Pin=U7-31
+Added Net: Name=FMC_A6
+Added Pin To Net: NetName=FMC_A7 Pin=U1-53
+Added Pin To Net: NetName=FMC_A7 Pin=U7-32
+Added Net: Name=FMC_A7
+Added Pin To Net: NetName=FMC_A8 Pin=U1-54
+Added Pin To Net: NetName=FMC_A8 Pin=U7-33
+Added Net: Name=FMC_A8
+Added Pin To Net: NetName=FMC_A9 Pin=U1-55
+Added Pin To Net: NetName=FMC_A9 Pin=U7-34
+Added Net: Name=FMC_A9
+Added Pin To Net: NetName=FMC_A10 Pin=U1-56
+Added Pin To Net: NetName=FMC_A10 Pin=U7-22
+Added Net: Name=FMC_A10
+Added Pin To Net: NetName=FMC_A11 Pin=U1-57
+Added Pin To Net: NetName=FMC_A11 Pin=U7-35
+Added Net: Name=FMC_A11
+Added Pin To Net: NetName=FMC_BA0 Pin=U1-89
+Added Pin To Net: NetName=FMC_BA0 Pin=U7-20
+Added Net: Name=FMC_BA0
+Added Pin To Net: NetName=FMC_BA1 Pin=U1-90
+Added Pin To Net: NetName=FMC_BA1 Pin=U7-21
+Added Net: Name=FMC_BA1
+Added Pin To Net: NetName=FMC_CAS Pin=U1-132
+Added Pin To Net: NetName=FMC_CAS Pin=U7-17
+Added Net: Name=FMC_CAS
+Added Pin To Net: NetName=FMC_CKE Pin=U1-29
+Added Pin To Net: NetName=FMC_CKE Pin=U7-37
+Added Net: Name=FMC_CKE
+Added Pin To Net: NetName=FMC_CLK Pin=U1-93
+Added Pin To Net: NetName=FMC_CLK Pin=U7-38
+Added Net: Name=FMC_CLK
+Added Pin To Net: NetName=FMC_CS Pin=U1-28
+Added Pin To Net: NetName=FMC_CS Pin=U7-19
+Added Net: Name=FMC_CS
+Added Pin To Net: NetName=FMC_D0 Pin=U1-85
+Added Pin To Net: NetName=FMC_D0 Pin=U7-2
+Added Net: Name=FMC_D0
+Added Pin To Net: NetName=FMC_D1 Pin=U1-86
+Added Pin To Net: NetName=FMC_D1 Pin=U7-4
+Added Net: Name=FMC_D1
+Added Pin To Net: NetName=FMC_D2 Pin=U1-114
+Added Pin To Net: NetName=FMC_D2 Pin=U7-5
+Added Net: Name=FMC_D2
+Added Pin To Net: NetName=FMC_D3 Pin=U1-115
+Added Pin To Net: NetName=FMC_D3 Pin=U7-7
+Added Net: Name=FMC_D3
+Added Pin To Net: NetName=FMC_D4 Pin=U1-58
+Added Pin To Net: NetName=FMC_D4 Pin=U7-8
+Added Net: Name=FMC_D4
+Added Pin To Net: NetName=FMC_D5 Pin=U1-59
+Added Pin To Net: NetName=FMC_D5 Pin=U7-10
+Added Net: Name=FMC_D5
+Added Pin To Net: NetName=FMC_D6 Pin=U1-60
+Added Pin To Net: NetName=FMC_D6 Pin=U7-11
+Added Net: Name=FMC_D6
+Added Pin To Net: NetName=FMC_D7 Pin=U1-63
+Added Pin To Net: NetName=FMC_D7 Pin=U7-13
+Added Net: Name=FMC_D7
+Added Pin To Net: NetName=FMC_D8 Pin=U1-64
+Added Pin To Net: NetName=FMC_D8 Pin=U7-42
+Added Net: Name=FMC_D8
+Added Pin To Net: NetName=FMC_D9 Pin=U1-65
+Added Pin To Net: NetName=FMC_D9 Pin=U7-44
+Added Net: Name=FMC_D9
+Added Pin To Net: NetName=FMC_D10 Pin=U1-66
+Added Pin To Net: NetName=FMC_D10 Pin=U7-45
+Added Net: Name=FMC_D10
+Added Pin To Net: NetName=FMC_D11 Pin=U1-67
+Added Pin To Net: NetName=FMC_D11 Pin=U7-47
+Added Net: Name=FMC_D11
+Added Pin To Net: NetName=FMC_D12 Pin=U1-68
+Added Pin To Net: NetName=FMC_D12 Pin=U7-48
+Added Net: Name=FMC_D12
+Added Pin To Net: NetName=FMC_D13 Pin=U1-77
+Added Pin To Net: NetName=FMC_D13 Pin=U7-50
+Added Net: Name=FMC_D13
+Added Pin To Net: NetName=FMC_D14 Pin=U1-78
+Added Pin To Net: NetName=FMC_D14 Pin=U7-51
+Added Net: Name=FMC_D14
+Added Pin To Net: NetName=FMC_D15 Pin=U1-79
+Added Pin To Net: NetName=FMC_D15 Pin=U7-53
+Added Net: Name=FMC_D15
+Added Pin To Net: NetName=FMC_NBL0 Pin=U1-141
+Added Pin To Net: NetName=FMC_NBL0 Pin=U7-15
+Added Net: Name=FMC_NBL0
+Added Pin To Net: NetName=FMC_NBL1 Pin=U1-142
+Added Pin To Net: NetName=FMC_NBL1 Pin=U7-39
+Added Net: Name=FMC_NBL1
+Added Pin To Net: NetName=FMC_RAS Pin=U1-49
+Added Pin To Net: NetName=FMC_RAS Pin=U7-18
+Added Net: Name=FMC_RAS
+Added Pin To Net: NetName=FMC_WE Pin=U1-26
+Added Pin To Net: NetName=FMC_WE Pin=U7-16
+Added Net: Name=FMC_WE
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-24
+Added Pin To Net: NetName=NetC1_1 Pin=Y1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-23
+Added Pin To Net: NetName=NetC2_1 Pin=Y1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-32
+Added Net: Name=NetR2_1
+Added Class: Name=SDRAM
+Added Member To Class: ClassName=MCU Member=Component C1 4.3pf
+Added Member To Class: ClassName=MCU Member=Component C2 4.3pf
+Added Member To Class: ClassName=MCU Member=Component R4 10k
+Added Member To Class: ClassName=MCU Member=Component Y1 20M
+Added Room: Name=SDRAM
