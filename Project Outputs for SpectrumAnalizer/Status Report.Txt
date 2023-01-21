@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [SpectrumAnalizer.PrjPcb]
+   Generated File[Main.GTO]
+   Generated File[Main.GTP]
+   Generated File[Main.GTS]
+   Generated File[Main.GTL]
+   Generated File[Main.G1]
+   Generated File[Main.G2]
+   Generated File[Main.G3]
+   Generated File[Main.G4]
+   Generated File[Main.GBL]
+   Generated File[Main.GBS]
+   Generated File[Main.GM1]
+   Generated File[Main.GM2]
+   Generated File[Main.GM3]
+   Generated File[Main.GM5]
+   Generated File[Main.GM13]
+   Generated File[Main.GM15]
+   Generated File[Main.GM16]
+   Generated File[Main.GKO]
+   Generated File[Main.GPT]
+   Generated File[Main.GPB]
+   Generated File[Main.GD1]
+   Generated File[Main.GG1]
+   Generated File[Main.RUL]
+   Generated File[Main.EXTREP]
+   Generated File[Main.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 1:31:57 On 22.01.2023
