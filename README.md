@@ -4,6 +4,11 @@ The spectrum analyzer is based on 2 high-frequency frequency generators adf 4351
 The signal mixing and filtering circuit is based on the IAM 81008 microwave multiplex and a low-pass filter with a cutoff frequency of 130 kHz, the signal is digitized on the ADC of the microcontroller
 ## Device
 Initially, the device was conceived as a stationary analyzer with an external 12V power supply, a display and a control keypad, but due to many ambiguous moments, it was decided to release the initial prototype without external control, but with the ability to connect the touch screen with an external controller via i2c
+## Future
+- Frequency spectrum display 0 - 4300 MHz
+- Frequency generation at SMA 0 - 4300 MHz
+- Connecting to the Desktop application via Wi-Fi, usb
+- Vector circuit analysis
 ## Display 
 The simplest 7-inch display with RGB interface support was chosen as the display.
 ![alt text](https://github.com/artiFL/SpectrumALZ/blob/master/Image/Disp.jpg?raw=true)
