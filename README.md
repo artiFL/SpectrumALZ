@@ -6,5 +6,6 @@ The signal mixing and filtering circuit is based on the IAM 81008 microwave mult
 Initially, the device was conceived as a stationary analyzer with an external 12V power supply, a display and a control keypad, but due to many ambiguous moments, it was decided to release the initial prototype without external control, but with the ability to connect the touch screen with an external controller via i2c
 ## Display 
 The simplest 7-inch display with RGB interface support was chosen as the display.
-![alt text]([http://url/to/img.png](https://github.com/artiFL/SpectrumALZ/blob/master/Image/Disp.jpg))
+![alt text](https://github.com/artiFL/SpectrumALZ/blob/master/Image/Disp.jpg?raw=true)
+
 
